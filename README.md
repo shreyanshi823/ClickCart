@@ -26,8 +26,8 @@
 
 > Add screenshots here (you can upload images in the GitHub repo and use their links)
 
-| Home Page | Products | Offers |
-|----------|----------|--------|
+| Home Page | 
+|----------|
 | ![image](https://github.com/user-attachments/assets/c97c9d4f-b389-46b5-ad71-8e4a118ecdb2)
  | ![{E444CB75-E13E-493B-A9B0-E015E1478834}](https://github.com/user-attachments/assets/f6bafb56-ae74-4185-9757-7255e2a5e986)
  | ![image](https://github.com/user-attachments/assets/f0f0882d-3ad0-4c33-b180-c74d44c00d6a)
