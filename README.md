@@ -1,6 +1,7 @@
 # 🛒 Click Cart – E-Commerce Website
 
-![Click Cart Banner](your-banner-image-url-here)
+![image](https://github.com/user-attachments/assets/ac15dc3c-3bea-42e7-a709-2e0f5585f5cc)
+
 
 ## 🚀 About the Project
 
@@ -27,7 +28,10 @@
 
 | Home Page | Products | Offers |
 |----------|----------|--------|
-| ![Home](screenshots/home.png) | ![Products](screenshots/products.png) | ![Offers](screenshots/offers.png) |
+| ![image](https://github.com/user-attachments/assets/c97c9d4f-b389-46b5-ad71-8e4a118ecdb2)
+ | ![{E444CB75-E13E-493B-A9B0-E015E1478834}](https://github.com/user-attachments/assets/f6bafb56-ae74-4185-9757-7255e2a5e986)
+ | ![image](https://github.com/user-attachments/assets/f0f0882d-3ad0-4c33-b180-c74d44c00d6a)
+|
 
 ## 📚 Learning Outcomes
 
